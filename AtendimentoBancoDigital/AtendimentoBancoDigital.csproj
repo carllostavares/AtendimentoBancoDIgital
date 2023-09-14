@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="banco.Modelos\ADM\Funcionario\" />
+    <Folder Include="banco.Modelos\ADM\Utilitario\" />
+    <Folder Include="banco.Modelos\ADM\SistemaInterno\" />
+    <Folder Include="banco.Modelos\ADM\ParceriaComercial\" />
+  </ItemGroup>
+
 </Project>
